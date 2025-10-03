@@ -7,7 +7,8 @@
 
 1. [Unsupervised Learning For Image Classification by Amit Yadav from Medium](https://medium.com/@amit25173/unsupervised-learning-for-image-classification-3dd97e783111)
 2. [Unsupervised image classification with Python by James Murdza from Youtube](https://www.youtube.com/watch?v=FalMvqhfWa8)
-3. [CLIP, T-SNE, and UMAP - Master Image Embeddings & Vector Analysis by Roboflow](https://www.youtube.com/watch?v=YxJkE6FvGF4)
-4. [Image Similarity Search with VGG16 and Cosine Distance by DigitalSreeni](https://www.youtube.com/watch?v=dCcRWdmmgA0)
-5. [Understanding FAISS for efficient similarity search of dense vectors by DigitalSreeni](https://www.youtube.com/watch?v=0jOlZpFFxCE)
+3. [CLIP, T-SNE, and UMAP - Master Image Embeddings & Vector Analysis by Roboflow from Youtube](https://www.youtube.com/watch?v=YxJkE6FvGF4)
+4. [Image Similarity Search with VGG16 and Cosine Distance by DigitalSreeni from Youtube](https://www.youtube.com/watch?v=dCcRWdmmgA0)
+5. [Understanding FAISS for efficient similarity search of dense vectors by DigitalSreeni from Youtube](https://www.youtube.com/watch?v=0jOlZpFFxCE)
 6. [My Discussion with Grok](https://grok.com/share/bGVnYWN5_9108c7fd-2061-4f41-a9ce-ed93dbce1baf)
+7. [CNN features are also great at unsupervised classification from arxiv](https://arxiv.org/abs/1707.01700)
